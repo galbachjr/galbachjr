@@ -21,9 +21,9 @@
 
 [<img align="left" alt="giovannialbachjr | LetsDefend" width="22px" src="https://th.bing.com/th/id/OIP.yh3VoIm0KZB0RZgj3lhXlQAAAA?w=170&h=180&c=7&r=0&o=5&pid=1.7" />][LetsDefend]
 
-[LetsDefend]: app.letsdefend.io/user/galbachjr
+[LetsDefend]: https://app.letsdefend.io/user/galbachjr
 
 [<img align="left" alt="giovannialbachjr | TryHackMe" width="22px" src="https://wwr-pro.s3.amazonaws.com/logos/0081/8736/logo.gif" />][TryHackMe]
 
-[TryHackMe]: tryhackme.com/p/galbachjr
+[TryHackMe]: https://tryhackme.com/p/galbachjr
 <!--
