@@ -1,9 +1,9 @@
-<h1>Hi, I'm Giovanni! <br/><a href="https://github.com/galbachjr">Student</a>, <a href="https://www.linkedin.com/in/giovannialbachjr/">Aspiring Cybersecurity Analyst</a>
+<h1>Hi, I'm Giovanni! <br/><a href="https://github.com/galbachjr">Student</a>, <a href="https://www.linkedin.com/in/giovannialbachjr/">Aspiring SOC/Cybersecurity Analyst</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Testing Alerts in Splunk Using Windows 10 Pro (galbachjr)</b>
-  - [Testing Alerts in Splunk Using Windows 10 Pro](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Testing Alerts in Splunk Using Windows 10 Pro](https://github.com/galbachjr/Home-Lab_Splunk-Project)
 
 
 <h2>📄 My Certifications</h2>
@@ -17,6 +17,13 @@
 
 [<img align="left" alt="giovannialbachjr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/giovannialbachjr
+[linkedin]: (https://linkedin.com/in/giovannialbachjr)
 
+[<img align="left" alt="giovannialbachjr | LetsDefend" width="22px" src="https://th.bing.com/th/id/OIP.yh3VoIm0KZB0RZgj3lhXlQAAAA?w=170&h=180&c=7&r=0&o=5&pid=1.7" />][LetsDefend]
+
+[LetsDefend]: (app.letsdefend.io/user/galbachjr)
+
+[<img align="left" alt="giovannialbachjr | TryHackMe" width="22px" src="https://wwr-pro.s3.amazonaws.com/logos/0081/8736/logo.gif" />][TryHackMe]
+
+[TryHackMe]: (tryhackme.com/p/galbachjr)
 <!--
