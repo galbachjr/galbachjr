@@ -4,6 +4,7 @@
 
 - <b>Testing Alerts in Splunk Using Windows 10 Pro (galbachjr)</b>
   - [Testing Alerts in Splunk Using Windows 10 Pro](https://github.com/galbachjr/Home-Lab_Splunk-Project)
+  - [Installing ART & Testing BITS Jobs w/ Splunk](https://github.com/galbachjr/Installing_ART_Testing_BITS_Jobs_Splunk_Project)
 
 
 <h2>📄 My Certifications</h2>
