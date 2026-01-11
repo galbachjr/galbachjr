@@ -6,6 +6,7 @@
   - [Testing Alerts in Splunk Using Windows 10 Pro](https://github.com/galbachjr/Home-Lab_Splunk-Project)
   - [Installing ART & Testing BITS Jobs w/ Splunk](https://github.com/galbachjr/Installing_ART_Testing_BITS_Jobs_Splunk_Project)
   - [Basic Switch Configuration Lab in Cisco Packet Tracer](https://github.com/galbachjr/Basic-Switch-Configuration-Lab-in-Cisco-Packet-Tracer)
+  - ["Brutus" HackTheBox Lab](https://github.com/galbachjr/Brutus_HackTheBox_Writeup)
 
 
 <h2>📄 My Certifications</h2>
@@ -24,6 +25,10 @@
 [<img align="left" alt="giovannialbachjr | LetsDefend" width="22px" src="https://th.bing.com/th/id/OIP.yh3VoIm0KZB0RZgj3lhXlQAAAA?w=170&h=180&c=7&r=0&o=5&pid=1.7" />][LetsDefend]
 
 [LetsDefend]: https://app.letsdefend.io/user/galbachjr
+
+[<img align="left" alt="giovannialbachjr | HackTheBox" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" />][HackTheBox]
+
+[HackTheBox]: https://app.hackthebox.com/public/users/3034582
 
 [<img align="left" alt="giovannialbachjr | TryHackMe" width="22px" src="https://wwr-pro.s3.amazonaws.com/logos/0081/8736/logo.gif" />][TryHackMe]
 
