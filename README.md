@@ -6,8 +6,8 @@
   - [Installing ART & Testing BITS Jobs w/ Splunk](https://github.com/galbachjr/Installing_ART_Testing_BITS_Jobs_Splunk_Project)
   - [Basic Switch Configuration Lab in Cisco Packet Tracer](https://github.com/galbachjr/Basic-Switch-Configuration-Lab-in-Cisco-Packet-Tracer)
   - ["Brutus" HackTheBox Lab](https://github.com/galbachjr/Brutus_HackTheBox_Writeup)
-  - [Basic Router-on-a-Stick VLAN EPCC Lab](https://github.com/galbachjr/Basic-Router-on-a-Stick-VLAN-EPCC-Lab)
-
+  - [Basic Router-on-a-Stick VLAN EPCC Lab](https://github.com/galbachjr/Basic-Router-on-a-Stick-VLAN-EPCC-Lab) 
+  - [Implementing VLANs & Trunking Lab](https://github.com/galbachjr/Implementing-VLANs-And-Trunking)
 
 <h2>📄 My Certifications</h2>
 
