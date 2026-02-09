@@ -1,6 +1,6 @@
 <h1>Hi, I'm Giovanni! <br/><a href="https://github.com/galbachjr">Student</a>, <a href="https://www.linkedin.com/in/giovannialbachjr/">Aspiring SOC/Cybersecurity Analyst</a>
 
-<h2>👨‍💻 Cybersecurity/SOC Projects:</h2>
+<h2>👨‍💻 Cybersecurity/SOC/Cisco Projects:</h2>
 
   - [Testing Alerts in Splunk Using Windows 10 Pro](https://github.com/galbachjr/Home-Lab_Splunk-Project)
   - [Installing ART & Testing BITS Jobs w/ Splunk](https://github.com/galbachjr/Installing_ART_Testing_BITS_Jobs_Splunk_Project)
